@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Zero-Fixer/MAS-FontSwitcher-EN/assets/142945683/98e84b77-f488-4a1b-8df0-55bda54b3e7b">
+  <img src="https://github.com/Zero-Fixer/MAS-FontSwitcher-EN/assets/142945683/6caa8b59-7e67-4def-a440-7f086255da72">
 </p>
 
 <p align="center">
